@@ -4,3 +4,5 @@ my notes and prep for the following course
 Taken under Dr. Mohammed Awad
 
 meant to be opened in [obsidian](https://obsidian.md/)
+
+feel free to fork/rewrite/distribute 
