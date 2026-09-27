@@ -4,7 +4,7 @@ available in moodle, and his white board available in teams channel
 
 we covered abstract and "IV. PROBLEM FORMULATION AND PROPOSED SOLUTION"
 
-![ center | 400 ](art.png%20)
+![ center | 400 ](University/High%20Networks/attachments/art.png)
 
 ## the problem 
 it's a resource allocation problem
